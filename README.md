@@ -1,0 +1,2 @@
+# number-classifier
+Classifies Numbers

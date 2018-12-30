@@ -1,2 +1,2 @@
-# number-classifier
-Classifies Numbers
+This is a image classifier
+https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png
